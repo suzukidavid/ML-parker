@@ -27,11 +27,11 @@ Yes, it can be processed on a server! Before refactoring the architecture of the
 
 `docker pull oxedom/flask_api` <br/>
 `docker run -p 5000:5000 flask_api` <br/>
-[Dockerhub Image](https://hub.docker.com/repository/docker/oxedom/flask_api/) <br/>
+[Dockerhub Image](https://hub.docker.com/repository/docker/suzukidavid/flask_api/) <br/>
 
 # What else can parker detect?
 
-[Here's a list](https://github.com/oxedom/parker/blob/main/client/libs/labels.json)
+[Here's a list](https://github.com/suzukidavid/parker/blob/main/client/libs/labels.json)
 
 # Can I Contribute?
 
